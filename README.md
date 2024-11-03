@@ -1,4 +1,6 @@
 VENV SHOULD BE USED BEFORE RUNNING
+
+
 //network programmed web using: 
 1-scrypt hashing algorithm.
 2-CSRF prevention technique. 
